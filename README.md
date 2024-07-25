@@ -1,5 +1,5 @@
 <!--Banner-->
-![Dan's Banner Image](https://mega.nz/file/sZxQDACI#OvC2IvkuV8u-CnAMLoXxdstYL0FWGBaJofDxzWSFXQY)
+![Dan's Banner Image](https://github.com/Chirchir-Dan/Chirchir-Dan/blob/master/github-header-image.png)
 
 <!--Night Owl image-->
 <div>
