@@ -4,6 +4,14 @@
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chirchir-Dan&color=blueviolet" alt="Profile views" />
+  &nbsp;
+  <a href="https://github.com/Pepyn0?tab=followers">
+    <img src="https://img.shields.io/github/followers/Chirchir-Dan?style=social" alt="Followers" />
+  </a>
+</p>
 </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chirchir-Dan&color=blueviolet" alt="Profile views" />
