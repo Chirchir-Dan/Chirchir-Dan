@@ -5,6 +5,13 @@
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chirchir-Dan&color=blueviolet" alt="Profile views" />
+  &nbsp;
+  <a href="https://github.com/Pepyn0?tab=followers">
+    <img src="https://img.shields.io/github/followers/Chirchir-Dan?style=social" alt="Followers" />
+  </a>
+</p>
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Wlecome to my github page!
