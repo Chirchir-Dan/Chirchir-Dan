@@ -1,5 +1,13 @@
 <div align="center">
 <img alt="Dan's Banner Image" src="https://github.com/Chirchir-Dan/Chirchir-Dan/blob/master/github-header-image.png"/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chirchir-Dan&color=blueviolet" alt="Profile views" />
+  &nbsp;
+  <a href="https://github.com/Chirchir-Dan?tab=followers">
+    <img src="https://img.shields.io/github/followers/Chirchir-Dan?style=social" alt="Followers" />
+  </a>
+</p>
 </div>
 <!--Night Owl image-->
 <div>
