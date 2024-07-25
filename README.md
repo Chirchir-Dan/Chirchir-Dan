@@ -1,7 +1,5 @@
-<div align="center">
 <!--Banner-->
 ![Dan's Banner Image](https://github.com/Chirchir-Dan/Chirchir-Dan/blob/master/github-header-image.png)
-</div>
 
 <!--Night Owl image-->
 <div>
