@@ -63,7 +63,7 @@ shipping practical tools that solve real problems.
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp; -->
   ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
   ![Flask](https://img.shields.io/badge/-Flask-0D1117?style=flat&logo=flask)&nbsp;
-  ![Java](https://img.shields.io/badge/-Java-0D1117?style=flat&logo=java)&nbsp;
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-0D1117?style=flat&logo=spring)&nbsp;
   
 <!--
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-0D1117?style=flat&logo=jupyter)&nbsp;-->
