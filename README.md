@@ -20,12 +20,19 @@
 *Digital Craftsman (Software Engineer)*
 <br />
 
-<!--Start Intro-->               
-<p align="left">Dedicated ALX SE student with a strong foundation in Python, C, and data structures. Expanding my skillset to include DevOps practices and tools. Passionate about building efficient and scalable systems.</p>
+<!--Start Intro-->
+<p align="left">
+I’m Daniel (Dan) — a Software Developer with QA Engineer experience. I build
+backend features and REST APIs (Python/Flask, Django), work with databases, and
+write tests to keep systems reliable. I enjoy debugging, clean code, and
+shipping practical tools that solve real problems.
+</p>
 
-- 🌱 I’m currently learning many things(Leetcode, geeksforgeeks) I believe that everyday is a learning opportunity.
-- ✍ I am starting to write technical blogs on medium, You can visit my blog site at [DEV](https://medium.com/@dkipkosgei.daniel).
-<!--End Intro--> 
+- 🔭 Currently building portfolio projects focused on real-world workflows
+  (APIs, database models, validation, testing).
+- 🧪 I care about quality: test cases, API testing, and preventing regressions.
+- ✍️ I share learnings and notes here: [Blog](https://medium.com/@dkipkosgei.daniel)
+<!--End Intro-->
 
 <div>
 
