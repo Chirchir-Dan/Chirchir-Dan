@@ -22,10 +22,8 @@
 
 <!--Start Intro-->
 <p align="left">
-I’m Daniel (Dan) — a Software Developer with QA Engineer experience. I build
-backend features and REST APIs (Python/Flask, Django), work with databases, and
-write tests to keep systems reliable. I enjoy debugging, clean code, and
-shipping practical tools that solve real problems.
+  I build backend web apps with Python and SQL. I also have QA experience,
+	so I care about clear bug reports, reproducible steps, and testing changes.
 </p>
 
 - 🔭 Currently building portfolio projects focused on real-world workflows
