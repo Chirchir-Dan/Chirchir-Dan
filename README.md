@@ -27,10 +27,10 @@ My QA background helps me write maintainable code and think deeply about testing
 ---
 
 ## 🔭 What I'm Currently Working On
-- Advancing through the **Scrimba Fullstack Developer Path**  
-- Building frontend projects with React + TypeScript  
+- Advancing through the Scrimba Fullstack Developer Path  
+- Building a project with React + TypeScript + Next js + Tailwind CSS
 - Strengthening JavaScript fundamentals and UI architecture  
-- Practicing backend basics when needed
+
 ---
 
 ## 📚 Currently Studying
@@ -38,7 +38,7 @@ My QA background helps me write maintainable code and think deeply about testing
 - TypeScript  
 - Next.js fundamentals  
 - TailwindCSS best practices  
-- JavaScript deep dives
+- JavaScript deep dives (async, closures, patterns)
 
 ---
 
@@ -62,36 +62,18 @@ My QA background helps me write maintainable code and think deeply about testing
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+# 🔥 Streak Stats
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>GitHub Stats</strong></h3>
-      <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chirchir-Dan&count_private=true&show_icons=true&theme=nightowl" alt="Github Stats" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Streak Stats</strong></h3>
-      <p align="center">
-        <img align="center" src="https://streak-stats.demolab.com?user=Chirchir-Dan&theme=nightowl" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Top Contributions</strong></h3>
-      <p align="center">
-        <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Chirchir-Dan&limit=3&theme=nightowl&combine_all_yearly_contributions=true" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<h2 align="center">📈 Contribution Graph</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirchir-Dan&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false">
+  <img src="https://streak-stats.demolab.com?user=Chirchir-Dan&theme=nightowl" />
+</div>
+
+---
+
+
+
+# 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirchir-Dan&theme=nightowl&hide_border=true" />
 </div>
