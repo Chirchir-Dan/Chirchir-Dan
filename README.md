@@ -33,11 +33,12 @@ My QA background helps me write maintainable code and think deeply about testing
 ---
 
 ## 📚 Currently Studying
-- React (advanced patterns)  
+- React
+- Expo
 - TypeScript  
-- Next.js fundamentals  
+- Next.js  
 - TailwindCSS best practices  
-- JavaScript deep dives (async, closures, patterns)
+- JavaScript deep dives
 
 ---
 
